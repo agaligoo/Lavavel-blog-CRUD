@@ -8,13 +8,13 @@
 User interface home
 
     "/"
-    ![Home]https://ibb.co/h8GpvP2
+    ![Home](https://ibb.co/h8GpvP2)
 
 
 User interface Login
 
     /login
-    [![image](https://github.com/agaligoo/Lavavel-blog-CRUD/assets/148785988/7bd30dea-26fd-4d43-acea-32a49667cd9b)](https://ibb.co/h8GpvP2)
+   \
 
 User interface Admin dash bord
 
