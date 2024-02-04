@@ -8,7 +8,8 @@
 User interface home
 
     "/"
-    ![image](https://github.com/agaligoo/Lavavel-blog-CRUD/assets/148785988/b785e7ae-bbf6-4d12-bbda-616ffa9a4f21)
+    ![index](https://github.com/agaligoo/Lavavel-blog-CRUD/assets/148785988/2cf8fc73-1ff3-42bf-87dc-19630fc65a83)
+
 
 User interface Login
 
