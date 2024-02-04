@@ -33,7 +33,8 @@ class LoginController extends Controller
      * @return void
      */
     public function __construct()
-    {   $login = session('เข้าสู่ระบบสำเร็จ');
+    {
+        $login = session('เข้าสู่ระบบสำเร็จ');
         $this->middleware('guest')->except('logout');
     }
 }
