@@ -8,23 +8,23 @@
 User interface home
 
     "/"
-![Home](index.png)
+![Home](https://ibb.co/h8GpvP2)
 
 
 User interface Login
 
     "/login"
-![Login](login.png)
+![Login](https://ibb.co/Xk4ZFjf)
 
 User interface Admin dash bord
 
     /author/blog
-    
+![Dashboard](https://ibb.co/LndL2TG)
 
 User interface Admin create / edit
 
     /author/create || /author/edit
-   
+![Create|Edit](https://ibb.co/P9WHhWH)
 
 
 
