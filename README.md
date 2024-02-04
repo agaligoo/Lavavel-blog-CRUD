@@ -8,23 +8,23 @@
 User interface home
 
     "/"
-    ![Home](index.png)
+![Home](index.png)
 
 
 User interface Login
 
-    /login
-   \
+    "/login"
+![Login](login.png)
 
 User interface Admin dash bord
 
     /author/blog
-    ![image](https://github.com/agaligoo/Lavavel-blog-CRUD/assets/148785988/bda88464-4c60-4672-9496-dc29b513342a)
+    
 
 User interface Admin create / edit
 
     /author/create || /author/edit
-    ![image](https://github.com/agaligoo/Lavavel-blog-CRUD/assets/148785988/af3e0eb6-e2ec-444c-87c8-44b9370a46eb)
+   
 
 
 
