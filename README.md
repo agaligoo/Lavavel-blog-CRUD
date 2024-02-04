@@ -8,7 +8,7 @@
 User interface home
 
     "/"
-    ![index](https://github.com/agaligoo/Lavavel-blog-CRUD/assets/148785988/2cf8fc73-1ff3-42bf-87dc-19630fc65a83)
+    ![Home]https://ibb.co/h8GpvP2
 
 
 User interface Login
